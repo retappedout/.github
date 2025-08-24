@@ -7,7 +7,7 @@ to prevent this situation in future, please take a minute to sign the [stop kill
 
 Do you like this project and want to support us in manteining the infrastructure online? 
 
-<a href="patreon.com/retapped">![Support the project](https://img.shields.io/badge/support%20the%20project-black?style=for-the-badge&logo=patreon)</a>
+<a href="https://patreon.com/retapped">![Support the project](https://img.shields.io/badge/support%20the%20project-black?style=for-the-badge&logo=patreon)</a>
 
 ## IMPORTANT
 
